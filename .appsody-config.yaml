@@ -1,0 +1,3 @@
+id: "20200428155426.93530800"
+project-name: catalog-ms-spring
+stack: docker.io/kabanero/java-spring-boot2:0.3
